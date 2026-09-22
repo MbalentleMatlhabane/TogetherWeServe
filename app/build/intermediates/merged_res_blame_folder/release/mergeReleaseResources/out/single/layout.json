@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.togetherweserve.app-mergeReleaseResources-60:/layout/toolbar_brand.xml",
+        "source": "com.togetherweserve.app-main-62:/layout/toolbar_brand.xml"
+    },
+    {
+        "merged": "com.togetherweserve.app-mergeReleaseResources-60:/layout/activity_register.xml",
+        "source": "com.togetherweserve.app-main-62:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.togetherweserve.app-mergeReleaseResources-60:/layout/activity_group_signup.xml",
+        "source": "com.togetherweserve.app-main-62:/layout/activity_group_signup.xml"
+    },
+    {
+        "merged": "com.togetherweserve.app-mergeReleaseResources-60:/layout/activity_event_detail.xml",
+        "source": "com.togetherweserve.app-main-62:/layout/activity_event_detail.xml"
+    },
+    {
+        "merged": "com.togetherweserve.app-mergeReleaseResources-60:/layout/item_schedule.xml",
+        "source": "com.togetherweserve.app-main-62:/layout/item_schedule.xml"
+    },
+    {
+        "merged": "com.togetherweserve.app-mergeReleaseResources-60:/layout/fragment_home.xml",
+        "source": "com.togetherweserve.app-main-62:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.togetherweserve.app-mergeReleaseResources-60:/layout/fragment_schedule.xml",
+        "source": "com.togetherweserve.app-main-62:/layout/fragment_schedule.xml"
+    },
+    {
+        "merged": "com.togetherweserve.app-mergeReleaseResources-60:/layout/activity_create_event.xml",
+        "source": "com.togetherweserve.app-main-62:/layout/activity_create_event.xml"
+    },
+    {
+        "merged": "com.togetherweserve.app-mergeReleaseResources-60:/layout/activity_splash.xml",
+        "source": "com.togetherweserve.app-main-62:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.togetherweserve.app-mergeReleaseResources-60:/layout/activity_main.xml",
+        "source": "com.togetherweserve.app-main-62:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.togetherweserve.app-mergeReleaseResources-60:/layout/fragment_settings.xml",
+        "source": "com.togetherweserve.app-main-62:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.togetherweserve.app-mergeReleaseResources-60:/layout/activity_login.xml",
+        "source": "com.togetherweserve.app-main-62:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.togetherweserve.app-mergeReleaseResources-60:/layout/item_event.xml",
+        "source": "com.togetherweserve.app-main-62:/layout/item_event.xml"
+    }
+]

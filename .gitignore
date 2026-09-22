@@ -1,0 +1,21 @@
+# Android / Gradle
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+*.apk
+*.keystore
+!debug.keystore
+
+# Firebase
+app/google-services.json
+functions/node_modules/
+functions/lib/
+
+# Node
+npm-debug.log*

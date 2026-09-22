@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "com.togetherweserve.app-release-61:/layout_activity_register.xml.flat",
+        "source": "com.togetherweserve.app-main-62:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.togetherweserve.app-release-61:/drawable_ic_profile.xml.flat",
+        "source": "com.togetherweserve.app-main-62:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "com.togetherweserve.app-release-61:/layout_activity_login.xml.flat",
+        "source": "com.togetherweserve.app-main-62:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.togetherweserve.app-release-61:/layout_activity_main.xml.flat",
+        "source": "com.togetherweserve.app-main-62:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.togetherweserve.app-release-61:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.togetherweserve.app-main-62:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.togetherweserve.app-release-61:/layout_activity_group_signup.xml.flat",
+        "source": "com.togetherweserve.app-main-62:/layout/activity_group_signup.xml"
+    },
+    {
+        "merged": "com.togetherweserve.app-release-61:/layout_item_event.xml.flat",
+        "source": "com.togetherweserve.app-main-62:/layout/item_event.xml"
+    },
+    {
+        "merged": "com.togetherweserve.app-release-61:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.togetherweserve.app-main-62:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.togetherweserve.app-release-61:/drawable_ic_schedule.xml.flat",
+        "source": "com.togetherweserve.app-main-62:/drawable/ic_schedule.xml"
+    },
+    {
+        "merged": "com.togetherweserve.app-release-61:/layout_fragment_settings.xml.flat",
+        "source": "com.togetherweserve.app-main-62:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.togetherweserve.app-release-61:/navigation_nav_graph.xml.flat",
+        "source": "com.togetherweserve.app-main-62:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.togetherweserve.app-release-61:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.togetherweserve.app-main-62:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.togetherweserve.app-release-61:/drawable_ic_add.xml.flat",
+        "source": "com.togetherweserve.app-main-62:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.togetherweserve.app-release-61:/layout_item_schedule.xml.flat",
+        "source": "com.togetherweserve.app-main-62:/layout/item_schedule.xml"
+    },
+    {
+        "merged": "com.togetherweserve.app-release-61:/layout_toolbar_brand.xml.flat",
+        "source": "com.togetherweserve.app-main-62:/layout/toolbar_brand.xml"
+    },
+    {
+        "merged": "com.togetherweserve.app-release-61:/layout_activity_splash.xml.flat",
+        "source": "com.togetherweserve.app-main-62:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.togetherweserve.app-release-61:/layout_fragment_schedule.xml.flat",
+        "source": "com.togetherweserve.app-main-62:/layout/fragment_schedule.xml"
+    },
+    {
+        "merged": "com.togetherweserve.app-release-61:/layout_activity_event_detail.xml.flat",
+        "source": "com.togetherweserve.app-main-62:/layout/activity_event_detail.xml"
+    },
+    {
+        "merged": "com.togetherweserve.app-release-61:/drawable_ic_notifications.xml.flat",
+        "source": "com.togetherweserve.app-main-62:/drawable/ic_notifications.xml"
+    },
+    {
+        "merged": "com.togetherweserve.app-release-61:/layout_fragment_home.xml.flat",
+        "source": "com.togetherweserve.app-main-62:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.togetherweserve.app-release-61:/drawable_ic_google.xml.flat",
+        "source": "com.togetherweserve.app-main-62:/drawable/ic_google.xml"
+    },
+    {
+        "merged": "com.togetherweserve.app-release-61:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.togetherweserve.app-main-62:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.togetherweserve.app-release-61:/layout_activity_create_event.xml.flat",
+        "source": "com.togetherweserve.app-main-62:/layout/activity_create_event.xml"
+    },
+    {
+        "merged": "com.togetherweserve.app-release-61:/drawable_ic_settings.xml.flat",
+        "source": "com.togetherweserve.app-main-62:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.togetherweserve.app-release-61:/drawable_ic_home.xml.flat",
+        "source": "com.togetherweserve.app-main-62:/drawable/ic_home.xml"
+    }
+]
